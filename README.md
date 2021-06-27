@@ -12,5 +12,5 @@ If yes, then you have to take the next steps.
 1. Download this tool from [**Here**](https://github.com/akbarhabiby/Windows11_dotNET-3.5/archive/refs/tags/v1.1.zip) or you can clone this repository.
 2. Extract it anywhere, or better you move the extracted folder into `C:`.
 3. Open **`app`** folder
-3. Then run **`start.bat`** **as administrator**
-4. And.. Voila! Congratulations, you now have **`.NET Framework 3.5`** on your System!
+4. Then run **`start.bat`** **as administrator**
+5. And.. Voila! Congratulations, you now have **`.NET Framework 3.5`** on your System!
