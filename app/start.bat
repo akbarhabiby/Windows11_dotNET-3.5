@@ -3,7 +3,7 @@ Title .NET Framework 3.5 Offline Installer for Windows 11
 
 if not "%1"=="am_admin" (
 	echo Asking for administrator permission
-	timeout /t 1
+	timeout /t 3
 	powershell start -verb runas '%0' am_admin & exit /b
 )
 
