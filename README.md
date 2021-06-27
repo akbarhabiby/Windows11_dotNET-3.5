@@ -2,6 +2,8 @@
 This tool will help you to install .NET Framework 3.5 on Windows 11.
 
 ## Are you facing this issue?
+**Error code: 0x800F0950**
+
 ![](./issue.png)
 
 If yes, then you have to take the next steps.
